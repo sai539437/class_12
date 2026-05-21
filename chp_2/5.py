@@ -1,0 +1,5 @@
+#write a program in python that finds an elements index/position in a tuple using index(). Tuple = (a,p,p,l,e) 
+ind=input("enter the element to find its index:")
+T=("a","p","p","l","e")
+x=T.index("p")
+print(x)
