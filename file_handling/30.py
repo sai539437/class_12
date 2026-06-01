@@ -10,4 +10,3 @@ def main():
      print("Area of the triangle =", result)
 
 main()
-    
